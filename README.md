@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-game
+# Tic-Tac-Toe game
 <img width="469" alt="tictactoe" src="https://github.com/user-attachments/assets/b4e8d345-84ea-46c5-848e-a96d087f03d1" />
 
 
